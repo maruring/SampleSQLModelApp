@@ -1,5 +1,5 @@
 # SampleSQLModelApp
-PythonのORMライブラリである(SQLModel)[https://sqlmodel.tiangolo.com/]を技術検証するリポジトリである。  
+PythonのORMライブラリである[SQLModel](https://sqlmodel.tiangolo.com/)を技術検証するリポジトリである。  
 ※後々にフォルダ構成は見直す予定です。
 
 ## 環境構築 (Environment Setup)
